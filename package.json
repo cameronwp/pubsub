@@ -1,0 +1,26 @@
+{
+  "name": "@marvin-dss/pubsub",
+  "version": "0.0.1",
+  "description": "Pubbing and subbing.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronwp/pubsub.git"
+  },
+  "author": "Cameron Pittman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronwp/pubsub/issues"
+  },
+  "homepage": "https://github.com/cameronwp/pubsub#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
