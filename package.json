@@ -1,5 +1,5 @@
 {
-  "name": "@marvin-dss/pubsub",
+  "name": "pubsub",
   "version": "0.0.1",
   "description": "Pubbing and subbing.",
   "main": "index.js",
