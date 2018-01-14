@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "name": "pubsub",
+=======
+  "name": "@cameronwp/pubsub",
+>>>>>>> Stashed changes
   "version": "0.0.1",
   "description": "Pubbing and subbing.",
   "main": "index.js",
